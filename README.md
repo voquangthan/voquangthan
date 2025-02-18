@@ -1,50 +1,21 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <title>Profile</title>
-    <style>
-        body {
-            background-color: #f8f9fa;
-        }
-        .profile-header {
-            text-align: center;
-            margin-bottom: 30px;
-        }
-        .profile-header h1 {
-            font-size: 2.5rem;
-        }
-        .profile-header p {
-            font-size: 1.2rem;
-            color: #6c757d;
-        }
-    </style>
-</head>
-<body>
+# Hi there! 👋 I'm Thân
 
-<div class="container">
-    <div class="profile-header">
-        <h1>Người Lãng Khách</h1>
-        <p>Không cần thông tin, chỉ cần hành trình.</p>
-    </div>
+🚀 **About Me:**  
+- 🎓 IT Student | Passionate about **AI, Data Extraction, and Object-Oriented Programming**  
+- 💻 Love working with **SQL, Python, C++, and C#**  
+- 🔍 Currently exploring **Database Optimization & Web Development**  
 
-    <div class="card">
-        <div class="card-body">
-            <h5 class="card-title">Thông tin liên hệ</h5>
-            <ul class="list-unstyled">
-                <li><strong>Tên:</strong> Vương Thanh</li>
-                <li><strong>Email:</strong> voquangthan@gmail.com</li>
-                <li><strong>Địa chỉ:</strong> Cần Thơ, Việt Nam</li>
-                <li><strong>Website:</strong> <a href="https://github.com/voquangthan">github.com/voquangthan</a></li>
-            </ul>
-        </div>
-    </div>
-</div>
+## 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  T
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
+## 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+
+## 🌎 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username)  
