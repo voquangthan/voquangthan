@@ -20,8 +20,8 @@
     <img src="https://github.com/user-attachments/assets/d4d2c4f2-5f72-4fb8-a02f-48cc72996188" width="300">
     <img src="https://github.com/user-attachments/assets/a0445366-2d78-4b84-97ac-a60e446691e2" width="300">
 </p>
-## Bài tập 4 gồm có tính tổng, nhân, chia
 
+<h2>Bài tập 4 gồm có tính tổng, nhân, chia</h2> 
 | Ảnh 1 | Ảnh 2 |
 |-------|-------|
 | ![image](https://github.com/user-attachments/assets/fbeac300-7519-480d-9955-0229ce28e797) | ![image](https://github.com/user-attachments/assets/5958f2f3-5e7e-4ee3-84bc-4b2c65091787) |
