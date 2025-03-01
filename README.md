@@ -20,10 +20,17 @@
     <img src="https://github.com/user-attachments/assets/d4d2c4f2-5f72-4fb8-a02f-48cc72996188" width="300">
     <img src="https://github.com/user-attachments/assets/a0445366-2d78-4b84-97ac-a60e446691e2" width="300">
 </p>
-<h2>Bài tập 4 gồm có tính tổng, nhân , chia</h2>
-<p align="center">
-     <img src="https://github.com/user-attachments/assets/9540e770-f2b3-4a6f-88a8-bad82f79e093" width="300">
-     <img src="https://github.com/user-attachments/assets/3c1b1a24-7447-4cd9-9fbf-049e0ae16327" width="300">
-     <img src="github.com/user-attachments/assets/e10bf195-7576-46bf-b665-5bfb43e9fae2" width="300">
-     <img src="https://github.com/user-attachments/assets/935f31f4-9d4d-44e7-a983-5dd63ad961b2" width="300">
-</p>
+## Bài tập 4 gồm có tính tổng, nhân, chia
+
+| Ảnh 1 | Ảnh 2 |
+|-------|-------|
+| ![image](https://github.com/user-attachments/assets/fbeac300-7519-480d-9955-0229ce28e797) | ![image](https://github.com/user-attachments/assets/5958f2f3-5e7e-4ee3-84bc-4b2c65091787) |
+
+| Ảnh 3 | Ảnh 4 |
+|-------|-------|
+| ![image](https://github.com/user-attachments/assets/20b51460-2309-4d71-9dd3-22fd1e912949) | ![image](https://github.com/user-attachments/assets/9e64deef-f831-42af-a2d5-11df63d8cc16) |
+
+
+
+
+
