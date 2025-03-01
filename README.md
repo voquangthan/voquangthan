@@ -8,17 +8,6 @@
 ## 🌎 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-github-username) 
-<h2>Bài Tính Tổng</h2>
-<p align="center">
-    <figure>
-        <img src="https://github.com/user-attachments/assets/d7d67093-28b4-4942-9d6b-4ae31456f185" width="300">
-        <figcaption>Giao diện nhập số</figcaption>
-    </figure>
-    <figure>
-        <img src="https://github.com/user-attachments/assets/664faa25-fca0-426f-907f-21594e7cde57" width="300">
-        <figcaption>Kết quả tính tổng</figcaption>
-    </figure>
-</p>
 
 
 ## Bài Tính Tổng
