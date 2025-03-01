@@ -22,6 +22,7 @@
 </p>
 
 <h2>Bài tập 4 gồm có tính tổng, nhân, chia</h2> 
+
 | Ảnh 1 | Ảnh 2 |
 |-------|-------|
 | ![image](https://github.com/user-attachments/assets/fbeac300-7519-480d-9955-0229ce28e797) | ![image](https://github.com/user-attachments/assets/5958f2f3-5e7e-4ee3-84bc-4b2c65091787) |
